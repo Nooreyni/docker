@@ -15,7 +15,7 @@ Team challenge : solo
 
 The project must reproduce this architecture:
 
-/app \n
+/app
    |-docker
    |   |-Dockerfile -> your Dockerfile
    |-pipeline
