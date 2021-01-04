@@ -10,22 +10,22 @@ Team challenge : solo
 
 ## Mission:
 
-```Know the basics of Docker in order to be effective for the next project.```
+*Know the basics of Docker in order to be effective for the next project.*
 
 
 The project must reproduce this architecture:
 
-```/app```
-```    |-docker```
-```    |   |-Dockerfile -> your Dockerfile```
-```    |-pipeline```
-```    |   |```
-```    |   |-model```
-```    |   |    |-model.py -> print a number between 1 and 400```
-```    |   |-preprocessing```
-```    |   |    |-preprocessing.py -> print a numpy array```
-```    |   |-utils```
-```    |   |    |-utils.py -> print "in progress..."```
+/app
+   |-docker
+   |   |-Dockerfile -> your Dockerfile
+   |-pipeline
+   |   |
+   |   |-model
+   |   |    |-model.py -> print a number between 1 and 400
+   |   |-preprocessing
+   |   |    |-preprocessing.py -> print a numpy array
+   |   |-utils
+   |   |    |-utils.py -> print "in progress..."
 
 ## Learning Objectives
 
